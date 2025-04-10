@@ -1,29 +1,15 @@
 # SIET_AWS_Assignments
-Repo for SIET AWS Assignments
 
 # 1 ETC
-
-## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-> Replace this line while adding the screenshot / answer
-
+![image](https://github.com/user-attachments/assets/859c618b-8298-40d7-aaa1-fd27267035b5)
 
 # 2 AWS Cloud Quest Badge
-
-## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
-
-## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
 
 
 # 3 AWS 3 Tier Architecture Implementation
 
-## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
 
-## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
-
+https://dev.to/bharathka_ddfe712971e26/intro-to-3-tier-architecture-b7p
 
 # 4 AWS 101 Workshop
 URL: https://catalog.workshops.aws/aws101/en-US
@@ -31,13 +17,9 @@ URL: https://catalog.workshops.aws/aws101/en-US
 ## Please add the screenshot of the final page of the AWS 101 Workshop
 > Replace this line while adding the screenshot / answer
 
-## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
-
+https://dev.to/bharathka_ddfe712971e26/aws-101-workshop-2gpe
 
 # 5 AWS Service
-
-## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
-> Replace this line while adding the screenshot / answer
+https://dev.to/bharathka_ddfe712971e26/aws-braket-48ib
 
 
